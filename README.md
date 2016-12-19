@@ -1,2 +1,2 @@
 # Python
-Miscellaneous Python Programs. Refer to README.
+Miscellaneous Python Programs.
